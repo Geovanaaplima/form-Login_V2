@@ -44,10 +44,15 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 - Similar à estrutura do `index.html`, mas com um formulário de recuperação de senha que inclui campos para email, nova senha e confirmação de senha.
 
+![](1.png)
+![](2.png)
+
 # Estilização (CSS)
 
 `style.css`: Personaliza a aparência dos formulários, incluindo cores, fontes e layout.
 
+![](3.png)
+![](4.png)
 # Funcionalidades (JavaScript)
 
 `script.js`
@@ -62,6 +67,7 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 -Exibição de mensagens de confirmação após o envio bem-sucedido do formulário de recuperação de senha.
 
+![](5.png)
 # Como Usar
 
 1 Abra o arquivo `index.html` em seu navegador para acessar o formulário de login.

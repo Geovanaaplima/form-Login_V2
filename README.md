@@ -7,9 +7,9 @@ Nesta atualização, foram feitas modificações e acréscimos de JavaScript e m
 
 Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
-![](Imagens/login.png)
+![](imagens/login.png)
 
-![](Imagens/recuperacao.png)
+![](imagens/recuperacao.png)
 
 # Arquivos
 `index.html`: Este arquivo contém o formulário de login.
@@ -48,15 +48,15 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 - Similar à estrutura do `index.html`, mas com um formulário de recuperação de senha que inclui campos para email, nova senha e confirmação de senha.
 
-![](Imagens/1.png)
-![](Imagens/2.png)
+![](imagens/1.png)
+![](imagens/2.png)
 
 # Estilização (CSS)
 
 `style.css`: Personaliza a aparência dos formulários, incluindo cores, fontes e layout.
 
-![](Imagens/3.png)
-![](Imagens/4.png)
+![](imagens/3.png)
+![](imagens/4.png)
 # Funcionalidades (JavaScript)
 
 `script.js`
@@ -71,7 +71,7 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 -Exibição de mensagens de confirmação após o envio bem-sucedido do formulário de recuperação de senha.
 
-![](Imagens/5.png)
+![](imagens/5.png)
 # Como Usar
 
 1 Abra o arquivo `index.html` em seu navegador para acessar o formulário de login.
@@ -88,4 +88,7 @@ Este projeto oferece uma solução completa de autenticação para os usuários,
 O projeto pode ser facilmente adaptado e integrado a sistemas mais complexos para atender às necessidades específicas de autenticação de diferentes aplicativos web.
 
 # Autor 
-👩 Geovana Aparecida de Lima 
+* Geovana Aparecida de Lima 
+
+<img src="Gih.jpg" width=200 >
+

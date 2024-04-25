@@ -7,9 +7,13 @@ Nesta atualização, foram feitas modificações e acréscimos de JavaScript e m
 
 Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
-![](imagens/login.png)
+![login](https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/25d8c574-934c-4ec6-a196-d0fdd6c4ecdd)
 
-![](imagens/recuperacao.png)
+
+![recuperacao](https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/565944cd-f057-4d21-8819-eaaf507365b6)
+
+
+
 
 # Arquivos
 `index.html`: Este arquivo contém o formulário de login.
@@ -48,15 +52,20 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 - Similar à estrutura do `index.html`, mas com um formulário de recuperação de senha que inclui campos para email, nova senha e confirmação de senha.
 
-![](imagens/1.png)
-![](imagens/2.png)
+![1](https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/0f3aea31-b467-4c12-9478-30d1e397e39f)
+
+
+![2](https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/a514a373-38f1-4ee2-8bda-5e90f4dd776c)
+
 
 # Estilização (CSS)
 
 `style.css`: Personaliza a aparência dos formulários, incluindo cores, fontes e layout.
 
-![](imagens/3.png)
-![](imagens/4.png)
+![3](https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/27430967-7e7c-48b1-ab59-37d017207ce7)
+
+![4](https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/20103909-3cd3-4e0e-99a8-aa915360ab2a)
+
 # Funcionalidades (JavaScript)
 
 `script.js`
@@ -71,7 +80,8 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 -Exibição de mensagens de confirmação após o envio bem-sucedido do formulário de recuperação de senha.
 
-![](imagens/5.png)
+![5](https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/3c7cd173-379a-4c9e-a010-fa7fa4deb9a5)
+
 # Como Usar
 
 1 Abra o arquivo `index.html` em seu navegador para acessar o formulário de login.
@@ -88,6 +98,7 @@ Este projeto oferece uma solução completa de autenticação para os usuários,
 O projeto pode ser facilmente adaptado e integrado a sistemas mais complexos para atender às necessidades específicas de autenticação de diferentes aplicativos web.
 
 # Autor 
-* Geovana Aparecida de Lima 
+* Geovana Aparecida de Lima
+  
 
-<img src="gih.jpg" width=200>
+<img src="https://github.com/Geovanaaplima/form-Login_V2/assets/140809949/de466838-5d13-407e-bb50-bc64b28cf114" width=200>

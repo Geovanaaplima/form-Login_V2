@@ -90,4 +90,4 @@ O projeto pode ser facilmente adaptado e integrado a sistemas mais complexos par
 # Autor 
 * Geovana Aparecida de Lima 
 
-<img src="gih.jpg" width=200 >
+<img src="gih.jpg" width=200>

@@ -7,8 +7,9 @@ Nesta atualização, foram feitas modificações e acréscimos de JavaScript e m
 
 Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
-<img src="imagens/login.png" width="80%">  
+![](Imagens/login.png)
 
+![](Imagens/recuperacao.png)
 
 # Arquivos
 `index.html`: Este arquivo contém o formulário de login.
@@ -47,15 +48,15 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 - Similar à estrutura do `index.html`, mas com um formulário de recuperação de senha que inclui campos para email, nova senha e confirmação de senha.
 
-![](imagens/1.png)
-![](imagens/2.png)
+![](Imagens/1.png)
+![](Imagens/2.png)
 
 # Estilização (CSS)
 
 `style.css`: Personaliza a aparência dos formulários, incluindo cores, fontes e layout.
 
-![](imagens/3.png)
-![](imagens/4.png)
+![](Imagens/3.png)
+![](Imagens/4.png)
 # Funcionalidades (JavaScript)
 
 `script.js`
@@ -70,7 +71,7 @@ Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
 -Exibição de mensagens de confirmação após o envio bem-sucedido do formulário de recuperação de senha.
 
-![](imagens/5.png)
+![](Imagens/5.png)
 # Como Usar
 
 1 Abra o arquivo `index.html` em seu navegador para acessar o formulário de login.

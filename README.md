@@ -7,9 +7,8 @@ Nesta atualização, foram feitas modificações e acréscimos de JavaScript e m
 
 Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
-![](imagens/login.png)
+<img src="imagens/login.png" width="80%">  
 
-![](imagens/recuperacao.png)
 
 # Arquivos
 `index.html`: Este arquivo contém o formulário de login.

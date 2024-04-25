@@ -7,9 +7,9 @@ Nesta atualização, foram feitas modificações e acréscimos de JavaScript e m
 
 Além disso, foi adicionada uma segunda tela para recuperação de senha.
 
-![](imagens/telaprincipal.png)
+![](imagens/login.png)
 
-![](imagens/recupera%C3%A7%C3%A3o.png)
+![](imagens/recuperacao.png)
 
 # Arquivos
 `index.html`: Este arquivo contém o formulário de login.
@@ -88,4 +88,4 @@ Este projeto oferece uma solução completa de autenticação para os usuários,
 O projeto pode ser facilmente adaptado e integrado a sistemas mais complexos para atender às necessidades específicas de autenticação de diferentes aplicativos web.
 
 # Autor 
--👩 Geovana Aparecida de Lima 
+👩 Geovana Aparecida de Lima 
